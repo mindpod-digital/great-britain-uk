@@ -1,0 +1,1 @@
+document.querySelector('#planner')?.addEventListener('submit',e=>{e.preventDefault();alert('Travel search is ready for a booking/affiliate provider to be connected.');});
